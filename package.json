@@ -11,9 +11,13 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/sitemap": "^2.3.0",
     "nuxt": "^2.0.0",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@nuxtjs/amp": "^0.2.4",
+    "@nuxtjs/google-analytics": "^2.3.0"
+  }
 }

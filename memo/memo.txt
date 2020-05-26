@@ -1,0 +1,4 @@
+■入れたプラグイン（nuxt.config.jsには書いていない）
+amp
+analytics
+sitemap

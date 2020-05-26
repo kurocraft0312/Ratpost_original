@@ -38,6 +38,10 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
+    '@nuxtjs/sitemap'
+  ],
+  sitemap: [
+
   ],
   /*
   ** Build configuration
