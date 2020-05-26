@@ -2,3 +2,6 @@
 amp
 analytics
 sitemap
+
+■プリプロセッサ
+.styl
