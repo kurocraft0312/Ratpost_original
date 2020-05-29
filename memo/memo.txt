@@ -5,3 +5,11 @@ sitemap
 
 ■構成
 https://liskul.com/lp-template-1545
+
+■カラー
+メインカラー：
+サイドカラー：
+アクセントカラー：
+
+■チートシート
+https://qiita.com/morrr/items/c01087e085986418615e
