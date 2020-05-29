@@ -3,8 +3,5 @@ amp
 analytics
 sitemap
 
-■プリプロセッサ
-.styl
-
 ■構成
 https://liskul.com/lp-template-1545

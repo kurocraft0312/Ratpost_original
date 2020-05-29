@@ -1,5 +1,5 @@
 {
-  "name": "Ratpost_original",
+  "name": "ratpost_original",
   "version": "1.0.0",
   "description": "This website specializes in speed.",
   "author": "kurocraft0312",
@@ -12,9 +12,7 @@
   },
   "dependencies": {
     "@nuxtjs/sitemap": "^2.3.0",
-    "nuxt": "^2.0.0",
-    "stylus": "^0.54.7",
-    "stylus-loader": "^3.0.2"
+    "nuxt": "^2.0.0"
   },
   "devDependencies": {
     "@nuxtjs/amp": "^0.2.4",

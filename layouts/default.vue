@@ -33,7 +33,7 @@
 <script>
 
 </script>
-<style lang="stylus" scoped>
+<style scoped>
   a {
     text-decoration: none;
   }
